@@ -1,0 +1,44 @@
+ export const city =[
+    {
+        id:1,
+        name:'city',
+        img:'city-1.jpeg'
+    },
+    {
+        id:2,
+        name:'city',
+        img:'city-2.jpeg'
+    },
+    {
+        id:3,
+        name:'city',
+        img:'city-3.jpeg'
+    },
+    {
+        id:4,
+        name:'city',
+        img:'city-4.jpeg'
+    },
+    {
+        id:5,
+        name:'city',
+        img:'city-5.jpeg'
+    }
+]
+ export const nature=[
+    {
+        id:1,
+        name:'nature',
+        img:'nature-1.jpeg'
+    },
+    {
+        id:2,
+        name:'nature',
+        img:'nature-2.jpeg'
+    },
+    {
+        id:3,
+        name:'nature',
+        img:'nature-3.jpeg'
+    },
+]
